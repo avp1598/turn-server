@@ -1,6 +1,6 @@
 module github.com/avp1598/stun_server
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/pion/dtls/v2 v2.2.7 // indirect
